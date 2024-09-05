@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #ff0000;">Hi 👋, I'm Fasil Hawultie</h1>
-  <img align="center" alt="Coding" width="100%" src="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/raw/output/github-contribution-grid-snake-dark.svg" />
+<!--   <img align="center" alt="Coding" width="100%" src="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/raw/output/github-contribution-grid-snake-dark.svg" /> -->
 </div>
 
 <h3 align="center">Passionate FullStack Developer | Building Web Magic with MongoDB, Express, React, and Node.js</h3>
