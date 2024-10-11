@@ -6,8 +6,6 @@
 <h3 align="center">Passionate FullStack Developer | Building Web Magic with MongoDB, Express, React, and Node.js</h3>
 <img align="right" alt="Coding" width="400" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif">
 
-- 🏢 I'm a Software engineering student at **Adama Science and Technology University (ASTU).**
-
 - ⚡ Software developer by day, code architect by night 🌙. Crafting elegant solutions to complex problems and turning caffeine into code. Let's build the future together! 💻🚀
 
 - 💬 Ask me about **Html, css, JavaScrip, React, Node.js, Express.js, MongoDb, and Python.**
