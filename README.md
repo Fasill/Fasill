@@ -16,7 +16,6 @@
 ```typescript
 const fasil = {
   role: "Applied AI / LLM Engineer",
-  company: "AY Automate",
   founding: "Basestr.com, live paid AI SaaS",
   philosophy: "LLM for fuzzy, deterministic code for money",
   shipping: ["Production AI Agents", "RAG Pipelines", "Full Stack SaaS"],
@@ -27,7 +26,6 @@ const fasil = {
 ```
 
 - 🚀 **Building [Basestr](https://basestr.com/)** solo. An AI powered accounting SaaS for short term rental managers. OpenAI for fuzzy column detection on messy Airbnb, VRBO, and Booking exports. Deterministic code for fees, taxes, and payouts.
-- 🤖 **AI Engineer at AY Automate**. Designing agentic workflows and LLM process automation with n8n.
 - 💼 **4 years Upwork Top Rated**. 100% Job Success Score across 11+ global clients. Backend, RAG, and AI automation shipped under real deadlines.
 - 🎓 **A2SV alumnus** (Google backed). 1000+ problems solved in C++. Alumni at Google, Bloomberg, Stripe, Databricks.
 - 📫 Reach me: **fasilhawultie19@gmail.com** · 🌐 [fasilhawultie.com](https://www.fasilhawultie.com/)
