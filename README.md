@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=fasill&style=for-the-badge&color=F75C7E&label=Profile+Views" />
 </p>
 
----
+***
 
 ### 🧠 About Me
 
@@ -17,22 +17,22 @@
 const fasil = {
   role: "Applied AI / LLM Engineer",
   company: "AY Automate",
-  founding: "Basestr.com — live paid AI SaaS",
+  founding: "Basestr.com, live paid AI SaaS",
   philosophy: "LLM for fuzzy, deterministic code for money",
-  shipping: ["Production AI Agents", "RAG Pipelines", "Full-Stack SaaS"],
+  shipping: ["Production AI Agents", "RAG Pipelines", "Full Stack SaaS"],
   learning: ["Eval frameworks", "Agentic workflows", "LLM orchestration"],
   basedIn: "Addis Ababa 🇪🇹 · Open to relocation",
-  graduating: "B.Sc. Software Engineering, ASTU — July 2026"
+  graduating: "B.Sc. Software Engineering, ASTU, July 2026"
 };
 ```
 
-- 🚀 **Building [Basestr](https://basestr.com/)** solo — AI-powered accounting SaaS for short-term rental managers. OpenAI for fuzzy column detection on messy Airbnb/VRBO exports, deterministic code for fees, taxes, and payouts.
-- 🤖 **AI Engineer at AY Automate** — designing agentic workflows and LLM process automation with n8n.
-- 💼 **4 years Upwork Top Rated** — 100% Job Success Score, 11+ global clients, backend + RAG + AI automation shipped under real deadlines.
-- 🎓 **A2SV alumnus** (Google-backed) — 1000+ problems solved in C++. Alumni at Google, Bloomberg, Stripe, Databricks.
+- 🚀 **Building [Basestr](https://basestr.com/)** solo. An AI powered accounting SaaS for short term rental managers. OpenAI for fuzzy column detection on messy Airbnb, VRBO, and Booking exports. Deterministic code for fees, taxes, and payouts.
+- 🤖 **AI Engineer at AY Automate**. Designing agentic workflows and LLM process automation with n8n.
+- 💼 **4 years Upwork Top Rated**. 100% Job Success Score across 11+ global clients. Backend, RAG, and AI automation shipped under real deadlines.
+- 🎓 **A2SV alumnus** (Google backed). 1000+ problems solved in C++. Alumni at Google, Bloomberg, Stripe, Databricks.
 - 📫 Reach me: **fasilhawultie19@gmail.com** · 🌐 [fasilhawultie.com](https://www.fasilhawultie.com/)
 
----
+***
 
 ### 🚀 Flagship Project
 
@@ -40,11 +40,11 @@ const fasil = {
   <img src="https://img.shields.io/badge/🌐_basestr.com-Live_Paid_Product-FF0080?style=for-the-badge&labelColor=1a1a1a" />
 </a>
 
-> **Basestr** is an AI accounting SaaS I built and ship solo. The architectural discipline: **the LLM handles fuzzy pattern matching, deterministic code handles anything that touches money or data integrity.** Per-property chat agents, AI CSV mappers, prompt chaining with tool use. Iterated from real customer conversations.
+> **Basestr** is an AI accounting SaaS I built and ship solo. The architectural discipline: **the LLM handles fuzzy pattern matching, deterministic code handles anything that touches money or data integrity.** Per property chat agents, AI CSV mappers, prompt chaining with tool use. Iterated from real customer conversations.
 
 **Stack:** `Next.js 16` · `React` · `TypeScript` · `Express` · `Prisma` · `Neon Postgres` · `OpenAI` · `Vercel` · `Google Cloud Run` · `Polar`
 
----
+***
 
 ### ⚡ Tech Stack
 
@@ -53,8 +53,8 @@ const fasil = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6C5CE7?style=for-the-badge)
-![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-00B894?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6C5CE7?style=for-the-badge)
+![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-00B894?style=for-the-badge)
 
 **💻 Languages**
 
@@ -85,13 +85,13 @@ const fasil = {
 **☁️ Infra & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+***
 
 ### 📊 GitHub
 
@@ -100,7 +100,7 @@ const fasil = {
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasill&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
 </p>
 
----
+***
 
 ### 🤝 Let's Build Something
 
