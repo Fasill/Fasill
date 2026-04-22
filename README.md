@@ -1,40 +1,115 @@
-<div align="center">
-  <h1 style="color: #ff0000;">Hi 👋, I'm Fasil Hawultie</h1>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fasil+Hawultie+%F0%9F%91%8B;Applied+AI+%2F+LLM+Engineer;Founder+%40+Basestr.com;Shipping+production+AI+%2B+SaaS" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">Full-Stack Developer & AI Automation Specialist | Crafting Scalable Web and AI Products</h3>
-<img align="right" alt="Coding" width="400" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif">
-
-- ⚡ Software engineer who crafts high-performance web and AI products. I transform complex ideas into streamlined, scalable solutions. Let's build the future together! 💻🚀
-
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, Python, Generative AI, Automation, and Data Structures & Algorithms**.
-
-- 📫 How to reach me: **fasilhawultie19@gmail.com**
-
-- 🌐 Visit my portfolio: [fasilhawultie.com](https://www.fasilhawultie.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/fasil-hawultie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fasil-hawultie" height="30" width="40" /></a>
-  <a href="https://instagram.com/fasil.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fasil.py" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://basestr.com/"><img src="https://img.shields.io/badge/Founder-Basestr-FF0080?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0108cd8e884d1e67b7"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fasil-hawultie"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=fasill&style=for-the-badge&color=F75C7E&label=Profile+Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
+---
+
+### 🧠 About Me
+
+```typescript
+const fasil = {
+  role: "Applied AI / LLM Engineer",
+  company: "AY Automate",
+  founding: "Basestr.com — live paid AI SaaS",
+  philosophy: "LLM for fuzzy, deterministic code for money",
+  shipping: ["Production AI Agents", "RAG Pipelines", "Full-Stack SaaS"],
+  learning: ["Eval frameworks", "Agentic workflows", "LLM orchestration"],
+  basedIn: "Addis Ababa 🇪🇹 · Open to relocation",
+  graduating: "B.Sc. Software Engineering, ASTU — July 2026"
+};
+```
+
+- 🚀 **Building [Basestr](https://basestr.com/)** solo — AI-powered accounting SaaS for short-term rental managers. OpenAI for fuzzy column detection on messy Airbnb/VRBO exports, deterministic code for fees, taxes, and payouts.
+- 🤖 **AI Engineer at AY Automate** — designing agentic workflows and LLM process automation with n8n.
+- 💼 **4 years Upwork Top Rated** — 100% Job Success Score, 11+ global clients, backend + RAG + AI automation shipped under real deadlines.
+- 🎓 **A2SV alumnus** (Google-backed) — 1000+ problems solved in C++. Alumni at Google, Bloomberg, Stripe, Databricks.
+- 📫 Reach me: **fasilhawultie19@gmail.com** · 🌐 [fasilhawultie.com](https://www.fasilhawultie.com/)
+
+---
+
+### 🚀 Flagship Project
+
+<a href="https://basestr.com/">
+  <img src="https://img.shields.io/badge/🌐_basestr.com-Live_Paid_Product-FF0080?style=for-the-badge&labelColor=1a1a1a" />
+</a>
+
+> **Basestr** is an AI accounting SaaS I built and ship solo. The architectural discipline: **the LLM handles fuzzy pattern matching, deterministic code handles anything that touches money or data integrity.** Per-property chat agents, AI CSV mappers, prompt chaining with tool use. Iterated from real customer conversations.
+
+**Stack:** `Next.js 16` · `React` · `TypeScript` · `Express` · `Prisma` · `Neon Postgres` · `OpenAI` · `Vercel` · `Google Cloud Run` · `Polar`
+
+---
+
+### ⚡ Tech Stack
+
+**🤖 AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6C5CE7?style=for-the-badge)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-00B894?style=for-the-badge)
+
+**💻 Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**🎨 Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
+**☁️ Infra & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=fasill&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasill&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="top langs" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasill&show_icons=true&locale=en&layout=compact" alt="fasill" /></p>
+---
+
+### 🤝 Let's Build Something
+
+<p align="center">
+  <a href="mailto:fasilhawultie19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fasil-hawultie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0108cd8e884d1e67b7"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://basestr.com/"><img src="https://img.shields.io/badge/Basestr-FF0080?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://www.fasilhawultie.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Shipping fast, thinking long.</i></p>
